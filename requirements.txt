@@ -1,6 +1,8 @@
-streamlit 
-Pillow 
-torch 
-torchvision 
-matplotlib
-opencv-python
+torch
+torchvision
+torchaudio
+ultralytics
+pandas
+requests
+Pillow
+psutil
